@@ -12,9 +12,9 @@ Install Kali Linux In Your Termux ; Easy Method
 ## Installation Commands
 ```
 cd $HOME
-pkg update
-pkg upgrade -y
-pkg install git -y
+apt update
+apt upgrade -y
+apt install git -y
 git clone https://github.com/Punker-Bhai/Kali-Lux
 cd Kali-Lux
 bash lux.sh
