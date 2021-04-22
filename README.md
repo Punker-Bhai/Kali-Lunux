@@ -15,7 +15,7 @@ cd $HOME
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/Punker-Bhai/Kali-Lux
+git clone https://github.com/hackerspunk/Kali-Lux
 cd Kali-Lux
 bash lux.sh
 ```
